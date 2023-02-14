@@ -4,5 +4,5 @@
 ## GPU 사용을 위해 colab 환경을 기반으로 작업을 수행했습니다.
 ## -
 ## -
-### #deep_learning #programming #keras #tensorflow #basics #colab
+### #deep_learning #programming #keras #tensorflow #tutorials #colab
 ##
